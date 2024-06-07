@@ -4,3 +4,5 @@ resources:
 - gotk-components.yaml
 - gotk-sync.yaml
 - addons.yaml
+- todo-app.yaml
+- react-app.yaml
