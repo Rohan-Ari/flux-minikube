@@ -6,3 +6,4 @@ resources:
 - addons.yaml
 - todo-app.yaml
 - react-app.yaml
+- namespace.yaml
